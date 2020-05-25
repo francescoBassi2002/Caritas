@@ -3,7 +3,9 @@
 ## The Idea 
 
 In collaboration with the I.I.T of Genova, we are creating an old school videogame. 
-![]()
+The idea is to create a 2D game that uses body-traking to move the player in the game. 
+This way the player can play and do some kind of exercises together  . 
+
 
 ## Members 
 * Yuri Armando
@@ -13,8 +15,6 @@ In collaboration with the I.I.T of Genova, we are creating an old school videoga
 * Karni Shekhawat
 ##### Map and texture ideas 
 
-`<img src="https://github.com/francescoBassi2002/Caritas/blob/master/IMG/collage.png">`
-![map](https://github.com/francescoBassi2002/Caritas/blob/master/IMG/collage.png)
 
 
 #
