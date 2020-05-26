@@ -1,11 +1,9 @@
-# Home Project (Compiti-In-Movimento)
+* # Home Project (Compiti-In-Movimento)
 
 ## The Idea 
 
 In collaboration with the I.I.T of Genova, we are creating an old school videogame. 
-The idea is to create a 2D game that uses body-traking to move the player in the game. 
-This way the player can play and do some kind of exercises together  . 
-
+Inspired by an Italian classic Super Mario Bros, but with some magic of prank.
 
 ## Members 
 * Yuri Armando
@@ -14,7 +12,10 @@ This way the player can play and do some kind of exercises together  .
 * Irene Gabutti
 * Karni Shekhawat
 ##### Map and texture ideas 
+![](https://github.com/francescoBassi2002/Caritas/blob/master/IMG/outline.jpg)
 
+###### This is a basic idea of what the game will look like.
+###### We are going to add more maps and difficulty to the lvls. 
 
 
 #
