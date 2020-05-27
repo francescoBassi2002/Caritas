@@ -3,7 +3,7 @@
 ## The Idea 
 
 In collaboration with the I.I.T of Genova, we are creating an old school videogame. 
-Inspired by an Italian classic Super Mario Bros, but with some magic of prank.
+
 
 ## Members 
 * Yuri Armando
