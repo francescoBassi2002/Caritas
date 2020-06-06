@@ -11,6 +11,7 @@ In collaboration with the I.I.T of Genova, we are creating an old school videoga
 * Francesco Bassigniana
 * Irene Gabutti
 * Karni Shekhawat
+* Giusti Matteo
 ##### Map and texture ideas 
 ![](https://github.com/francescoBassi2002/Caritas/blob/master/IMG/outline.jpg)
 
