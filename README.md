@@ -12,8 +12,8 @@ In collaboration with the I.I.T of Genova, we are creating an old school videoga
 * Irene Gabutti
 * Karni Shekhawat
 * Giusti Matteo
-##### Map and texture ideas 
-![](https://github.com/francescoBassi2002/Caritas/blob/master/IMG/outline.jpg)
+##### First Look
+![](https://github.com/francescoBassi2002/Caritas/blob/master/IMG/gameShot.jpg)
 
 ###### This is a basic idea of what the game will look like.
 ###### We are going to add more maps and difficulty to the lvls. 
