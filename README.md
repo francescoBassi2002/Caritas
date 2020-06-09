@@ -13,7 +13,7 @@ In collaboration with the I.I.T of Genova, we are creating an old school videoga
 * Karni Shekhawat
 * Giusti Matteo
 ##### First Look
-![](https://github.com/francescoBassi2002/Caritas/blob/master/IMG/outline.jpg)
+![](https://github.com/francescoBassi2002/Caritas/blob/master/IMG/gameShot.jpg)
 - [x] Character
 - [x] Start Screen
 - [x] Movements
