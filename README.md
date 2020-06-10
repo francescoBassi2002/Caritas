@@ -14,6 +14,7 @@ In collaboration with the I.I.T of Genova, we are creating an old school videoga
 * Giusti Matteo
 ##### First Look
 ![](https://github.com/francescoBassi2002/Caritas/blob/master/IMG/gameShot.jpg)
+![](https://github.com/francescoBassi2002/Caritas/blob/master/IMG/loading2.png)
 - [x] Character
 - [x] Start Screen
 - [x] Movements
