@@ -1,0 +1,1 @@
+To move the bat use the space bar
